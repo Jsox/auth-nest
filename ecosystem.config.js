@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
         {
-            script: 'npm run build && start:prod',
+            script: 'npm run build && npm run start:prod',
         },
     ],
 
